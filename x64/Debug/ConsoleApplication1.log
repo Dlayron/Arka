@@ -1,0 +1,14 @@
+﻿  ConsoleApplication1.cpp
+c:\users\взрослая академия\documents\maoirt\consoleapplication1\consoleapplication1.cpp(33): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\взрослая академия\documents\maoirt\consoleapplication1\consoleapplication1.cpp(186): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\взрослая академия\documents\maoirt\consoleapplication1\consoleapplication1.cpp(200): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\взрослая академия\documents\maoirt\consoleapplication1\consoleapplication1.cpp(213): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\взрослая академия\documents\maoirt\consoleapplication1\consoleapplication1.cpp(282): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\взрослая академия\documents\maoirt\consoleapplication1\consoleapplication1.cpp(337): warning C4101: event: неиспользованная локальная переменная
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Sound::Sound(class sf::SoundBuffer const &)" (__imp_??0Sound@sf@@QEAA@AEBVSoundBuffer@1@@Z) в функции main
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::Sound::~Sound(void)" (__imp_??1Sound@sf@@UEAA@XZ) в функции main
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual void __cdecl sf::Sound::play(void)" (__imp_?play@Sound@sf@@UEAAXXZ) в функции main
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::SoundBuffer::SoundBuffer(void)" (__imp_??0SoundBuffer@sf@@QEAA@XZ) в функции main
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::SoundBuffer::~SoundBuffer(void)" (__imp_??1SoundBuffer@sf@@QEAA@XZ) в функции main
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::SoundBuffer::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@SoundBuffer@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции main
+C:\Users\Взрослая академия\Documents\Maoirt\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1120: неразрешенных внешних элементов: 6

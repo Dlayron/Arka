@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+c:\users\взрослая академия\documents\maoirt\consoleapplication1\consoleapplication1.cpp(33): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\взрослая академия\documents\maoirt\consoleapplication1\consoleapplication1.cpp(186): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\взрослая академия\documents\maoirt\consoleapplication1\consoleapplication1.cpp(200): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\взрослая академия\documents\maoirt\consoleapplication1\consoleapplication1.cpp(213): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\взрослая академия\documents\maoirt\consoleapplication1\consoleapplication1.cpp(282): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\взрослая академия\documents\maoirt\consoleapplication1\consoleapplication1.cpp(337): warning C4101: event: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\Взрослая академия\Documents\Maoirt\ConsoleApplication1\Debug\ConsoleApplication1.exe
